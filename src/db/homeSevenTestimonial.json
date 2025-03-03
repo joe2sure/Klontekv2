@@ -1,0 +1,20 @@
+[
+    {
+        "image": "/images/v2/t-thumb1.png",
+        "rating": 5,
+        "testimonial": "If you’re looking for a rewarding career and a chance to make an impact, you’ve come to the right place. We will transform your business through our techniques!",
+        "author": {
+            "name": "Alexander Cameron",
+            "role": "Lead Developer"
+        }
+    },
+    {
+        "image": "/images/v2/t-thumb2.png",
+        "rating": 5,
+        "testimonial": "If you’re looking for a rewarding career and a chance to make an impact, you’ve come to the right place. We will transform your business through our techniques!",
+        "author": {
+            "name": "Alexander Cameron",
+            "role": "Lead Developer"
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "image": "/images/team/team1.png",
+        "name": "Marvin McKinney",
+        "position": "CEO & Founder",
+        "linkedin": "https://www.linkedin.com/",
+        "twitter": "https://twitter.com/",
+        "instagram": "https://www.instagram.com/"
+    },
+    {
+        "image": "/images/team/team2.png",
+        "name": "Sophia Rodriguez",
+        "position": "Creative Director",
+        "linkedin": "https://www.linkedin.com/",
+        "twitter": "https://twitter.com/",
+        "instagram": "https://www.instagram.com/"
+    },
+    {
+        "image": "/images/team/team3.png",
+        "name": "Alexander Cameron",
+        "position": "Lead Developer",
+        "linkedin": "https://www.linkedin.com/",
+        "twitter": "https://twitter.com/",
+        "instagram": "https://www.instagram.com/"
+    },
+    {
+        "image": "/images/team/team4.png",
+        "name": "Brooklyn Simmons",
+        "position": "Product Designer",
+        "linkedin": "https://www.linkedin.com/",
+        "twitter": "https://twitter.com/",
+        "instagram": "https://www.instagram.com/"
+    }
+]

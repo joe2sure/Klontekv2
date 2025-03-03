@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development",
+    "icon": "/images/v2/icon3.png",
+    "description": "We are architects of innovation, trailblazers of technological advancement, and partners in your success"
+  },
+  {
+    "id": 2,
+    "title": "App Development",
+    "icon": "/images/v2/icon4.png",
+    "description": "We are architects of innovation, trailblazers of technological advancement, and partners in your success"
+  },
+  {
+    "id": 3,
+    "title": "IT Management",
+    "icon": "/images/v2/icon7.png",
+    "description": "We are architects of innovation, trailblazers of technological advancement, and partners in your success"
+  },
+  {
+    "id": 4,
+    "title": "Digital Marketing",
+    "icon": "/images/v2/icon6.png",
+    "description": "We are architects of innovation, trailblazers of technological advancement, and partners in your success"
+  }
+]

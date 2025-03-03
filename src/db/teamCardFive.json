@@ -1,0 +1,38 @@
+[
+    {
+        "image": "/images/team/team1.png",
+        "name": "Marvin McKinney",
+        "position": "CEO & Founder",
+        "link": "single-team"
+    },
+    {
+        "image": "/images/team/team2.png",
+        "name": "Sophia Rodriguez",
+        "position": "Creative Director",
+        "link": "single-team"
+    },
+    {
+        "image": "/images/team/team3.png",
+        "name": "Alexander Cameron",
+        "position": "Lead Developer",
+        "link": "single-team"
+    },
+    {
+        "image": "/images/team/team4.png",
+        "name": "Brooklyn Simmons",
+        "position": "Product Designer",
+        "link": "single-team"
+    },
+    {
+        "image": "/images/team/team5.png",
+        "name": "Kelly Williams",
+        "position": "Digital Marketer",
+        "link": "single-team"
+    },
+    {
+        "image": "/images/team/team6.png",
+        "name": "Kari Rasmussen",
+        "position": "Cyber Specialist",
+        "link": "single-team"
+    }
+]

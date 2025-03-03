@@ -1,0 +1,23 @@
+[
+    {
+        "image": "/images/blog/blog1.png",
+        "title": "Technology support allows erie non-profit to serve",
+        "category": "Technology",
+        "date": "26 June 2023",
+        "link": "single-blog"
+    },
+    {
+        "image": "/images/blog/blog12.png",
+        "title": "The act of knowledge & the act of design thinking",
+        "category": "Branding",
+        "date": "12 August 2023",
+        "link": "single-blog"
+    },
+    {
+        "image": "/images/blog/blog3.png",
+        "title": "Core on web vitals, a smas magazine case study",
+        "category": "Design",
+        "date": "9 March 2023",
+        "link": "single-blog"
+    }
+]

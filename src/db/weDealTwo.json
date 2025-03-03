@@ -1,0 +1,38 @@
+[
+    {
+        "icon": "/images/v2/icon3.png",
+        "title": "Web Development",
+        "description": "We are architects technological advancement, and partners in your success. As a dynamic",
+        "link": "single-service"
+    },
+    {
+        "icon": "/images/v2/icon6.png",
+        "title": "Digital Marketing",
+        "description": "We are architects technological advancement, and partners in your success. As a dynamic",
+        "link": "single-service"
+    },
+    {
+        "icon": "/images/v2/icon4.png",
+        "title": "App Development",
+        "description": "We are architects technological advancement, and partners in your success. As a dynamic",
+        "link": "single-service"
+    },
+    {
+        "icon": "/images/v2/icon7.png",
+        "title": "IT Management",
+        "description": "We are architects technological advancement, and partners in your success. As a dynamic",
+        "link": "single-service"
+    },
+    {
+        "icon": "/images/v2/icon5.png",
+        "title": "UI/UX Design",
+        "description": "We are architects technological advancement, and partners in your success. As a dynamic",
+        "link": "single-service"
+    },
+    {
+        "icon": "/images/v2/icon8.png",
+        "title": "Cyber Security",
+        "description": "We are architects technological advancement, and partners in your success. As a dynamic",
+        "link": "single-service"
+    }
+]

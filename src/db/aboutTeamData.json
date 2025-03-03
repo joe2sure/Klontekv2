@@ -1,0 +1,43 @@
+ [
+      {
+        "name": "Marvin McKinney",
+        "position": "CEO & Founder",
+        "image": "/images/team/team1.png",
+        "socialMedia": {
+          "linkedin": "https://www.linkedin.com/",
+          "twitter": "https://twitter.com/",
+          "instagram": "https://www.instagram.com/"
+        }
+      },
+      {
+        "name": "Sophia Rodriguez",
+        "position": "Creative Director",
+        "image": "/images/team/team2.png",
+        "socialMedia": {
+          "linkedin": "https://www.linkedin.com/",
+          "twitter": "https://twitter.com/",
+          "instagram": "https://www.instagram.com/"
+        }
+      },
+      {
+        "name": "Alexander Cameron",
+        "position": "Lead Developer",
+        "image": "/images/team/team3.png",
+        "socialMedia": {
+          "linkedin": "https://www.linkedin.com/",
+          "twitter": "https://twitter.com/",
+          "instagram": "https://www.instagram.com/"
+        }
+      },
+      {
+        "name": "Brooklyn Simmons",
+        "position": "Product Designer",
+        "image": "/images/team/team4.png",
+        "socialMedia": {
+          "linkedin": "https://www.linkedin.com/",
+          "twitter": "https://twitter.com/",
+          "instagram": "https://www.instagram.com/"
+        }
+      }
+    ]
+    

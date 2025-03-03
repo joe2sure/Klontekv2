@@ -1,0 +1,32 @@
+[
+    {
+        "image": "/images/v3/s_1.png",
+        "icon": "/images/v3/icon1.png",
+        "title": "Web Development",
+        "description": "We are architects of innovation trailblazers technological"
+    },
+    {
+        "image": "/images/v3/s_2.png",
+        "icon": "/images/v3/icon2.png",
+        "title": "App Development",
+        "description": "We are architects of innovation trailblazers technological"
+    },
+    {
+        "image": "/images/v3/s_3.png",
+        "icon": "/images/v3/icon3.png",
+        "title": "UI/UX Design",
+        "description": "We are architects of innovation trailblazers technological"
+    },
+    {
+        "image": "/images/v3/s_4.png",
+        "icon": "/images/v3/icon4.png",
+        "title": "Digital Marketing",
+        "description": "We are architects of innovation trailblazers technological"
+    },
+    {
+        "image": "/images/v3/s_1.png",
+        "icon": "/images/v3/icon2.png",
+        "title": "Web Development",
+        "description": "We are architects of innovation trailblazers technological"
+    }
+]

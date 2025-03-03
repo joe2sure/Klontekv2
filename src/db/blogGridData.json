@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "title": "Technology support allows erie non-profit to serve",
+      "image": "/images/blog/blog1.png",
+      "tag": "Technology",
+      "date": "26 June 2023"
+    },
+    {
+      "id": 2,
+      "title": "The act of knowledge & the act of design thinking",
+      "image": "/images/blog/blog2.png",
+      "tag": "Branding",
+      "date": "12 August 2023"
+    },
+    {
+      "id": 3,
+      "title": "Core on web vitals, a smas magazine case study",
+      "image": "/images/blog/blog3.png",
+      "tag": "Design",
+      "date": "9 March 2023"
+    },
+    {
+      "id": 4,
+      "title": "Data backup and recovery best practices small",
+      "image": "/images/blog/blog8.png",
+      "tag": "Technology",
+      "date": "26 June 2023"
+    },
+    {
+      "id": 5,
+      "title": "Proactive customer experience in the business",
+      "image": "/images/blog/blog9.png",
+      "tag": "Branding",
+      "date": "12 August 2023"
+    },
+    {
+      "id": 6,
+      "title": "Market insights to manage people related costs",
+      "image": "/images/blog/blog10.png",
+      "tag": "Design",
+      "date": "9 March 2023"
+    },
+    {
+      "id": 7,
+      "title": "Planning your online business goals with a specialist",
+      "image": "/images/blog/blog11.png",
+      "tag": "Technology",
+      "date": "26 June 2023"
+    },
+    {
+      "id": 8,
+      "title": "Boost your startup business with our digital agency",
+      "image": "/images/blog/blog12.png",
+      "tag": "Branding",
+      "date": "12 August 2023"
+    },
+    {
+      "id": 9,
+      "title": "The importance of a strong digital for strategy",
+      "image": "/images/blog/blog3.png",
+      "tag": "Design",
+      "date": "9 March 2023"
+    }
+  ]
+  

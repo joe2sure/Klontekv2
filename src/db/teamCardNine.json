@@ -1,0 +1,62 @@
+[
+    {
+        "image": "/images/team/team1.png",
+        "name": "Marvin McKinney",
+        "position": "CEO & Founder",
+        "socialLinks": [
+            "https://www.linkedin.com/",
+            "https://twitter.com/",
+            "https://www.instagram.com/"
+        ]
+    },
+    {
+        "image": "/images/team/team2.png",
+        "name": "Sophia Rodriguez",
+        "position": "Creative Director",
+        "socialLinks": [
+            "https://www.linkedin.com/",
+            "https://twitter.com/",
+            "https://www.instagram.com/"
+        ]
+    },
+    {
+        "image": "/images/team/team3.png",
+        "name": "Alexander Cameron",
+        "position": "Lead Developer",
+        "socialLinks": [
+            "https://www.linkedin.com/",
+            "https://twitter.com/",
+            "https://www.instagram.com/"
+        ]
+    },
+    {
+        "image": "/images/team/team4.png",
+        "name": "Brooklyn Simmons",
+        "position": "Product Designer",
+        "socialLinks": [
+            "https://www.linkedin.com/",
+            "https://twitter.com/",
+            "https://www.instagram.com/"
+        ]
+    },
+    {
+        "image": "/images/team/team5.png",
+        "name": "Kelly Williams",
+        "position": "Digital Marketer",
+        "socialLinks": [
+            "https://www.linkedin.com/",
+            "https://twitter.com/",
+            "https://www.instagram.com/"
+        ]
+    },
+    {
+        "image": "/images/team/team6.png",
+        "name": "Kari Rasmussen",
+        "position": "Cyber Specialist",
+        "socialLinks": [
+            "https://www.linkedin.com/",
+            "https://twitter.com/",
+            "https://www.instagram.com/"
+        ]
+    }
+]

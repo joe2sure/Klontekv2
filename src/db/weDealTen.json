@@ -1,0 +1,50 @@
+[
+    {
+        "icon": "/images/iconbox/icon1.png",
+        "title": "Web Development",
+        "description": "We are architects of innovation trailblazers technological",
+        "link": "single-service"
+    },
+    {
+        "icon": "/images/iconbox/icon2.png",
+        "title": "App Development",
+        "description": "We are architects of innovation trailblazers technological",
+        "link": "single-service"
+    },
+    {
+        "icon": "/images/iconbox/icon3.png",
+        "title": "UI/UX Design",
+        "description": "We are architects of innovation trailblazers technological",
+        "link": "single-service"
+    },
+    {
+        "icon": "/images/iconbox/icon4.png",
+        "title": "Digital Marketing",
+        "description": "We are architects of innovation trailblazers technological",
+        "link": "single-service"
+    },
+    {
+        "icon": "/images/iconbox/icon1.png",
+        "title": "Web Development",
+        "description": "We are architects of innovation trailblazers technological",
+        "link": "single-service"
+    },
+    {
+        "icon": "/images/iconbox/icon2.png",
+        "title": "App Development",
+        "description": "We are architects of innovation trailblazers technological",
+        "link": "single-service"
+    },
+    {
+        "icon": "/images/iconbox/icon3.png",
+        "title": "UI/UX Design",
+        "description": "We are architects of innovation trailblazers technological",
+        "link": "single-service"
+    },
+    {
+        "icon": "/images/iconbox/icon4.png",
+        "title": "Digital Marketing",
+        "description": "We are architects of innovation trailblazers technological",
+        "link": "single-service"
+    }
+]
