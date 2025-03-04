@@ -7,7 +7,7 @@ const TeamSection = () => {
         <div className="section tekup-section-padding2">
             <div className="container">
                 <div className="tekup-section-title center">
-                    <h2>Our working process on how to grow your business</h2>
+                    <h2>Meet the team behind techverse</h2>
                 </div>
                 <div className="row">
                     {teamData?.slice(0, 4).map((item, index) => (

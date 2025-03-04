@@ -2,6 +2,7 @@ import React from "react";
 import CtaSection from "~/components/Section/Common/Cta/CtaSection";
 import Footer from "~/components/Section/Common/Footer/FooterSection";
 import Header from "~/components/Section/Common/Header/Header";
+import BrandSection from '~/components/Section/Common/BrandSection';
 import WorkProcessSection from "~/components/Section/Common/WorkProcess/WorkProcessSection";
 import AccordionSection from "~/components/Section/Common/AccordionSection";
 import HeroSection from "~/components/Section/Common/HeroSection";
@@ -10,26 +11,42 @@ import RecentProjectsSection from "~/components/Section/Common/RecentProjectsSec
 import ServiceSlideSection from "~/components/Section/Common/ServiceSlideSection";
 import TeamSection from "~/components/Section/Common/TeamSection";
 import TestimonialSection from "~/components/Section/Common/TestimonialSection";
+import ChooseUsSection from '~/components/Section/Common/ChooseUs/ChooseUsSection';
+import FactSection from '~/components/Section/Common/Fact/FactSection';
+import LetsBuildSection from "~/components/Section/Common/LetsBuildSection";
+import PricingSection from "~/components/Section/Common/PricingSection";
+import ElearningSection from "~/components/Section/Common/Elearning/ElearningSection";
+import QuestionAccordionSection from '~/components/Section/Common/QuestionAccordionSection';
+import RecentBlogSection from '~/components/Section/Common/RecentBlogSection';
 
-const HomeSeven = () => {
+
+const Home = () => {
   return (
     <div>
       <Header />
       <HeroSection />
-      <WorkProcessSection />
-      <ItSolutionSection />
+      <BrandSection />
       <ServiceSlideSection />
+      <WorkProcessSection />
+      <FactSection />
+      <ChooseUsSection />
+      <PricingSection />
+      <ItSolutionSection />
       <RecentProjectsSection />
+      <LetsBuildSection />
       <TestimonialSection />
       <TeamSection />
       <AccordionSection />
+      <ElearningSection/>
+      <QuestionAccordionSection />
+      <RecentBlogSection />
       <CtaSection />
       <Footer />
     </div>
   );
 };
 
-export default HomeSeven;
+export default Home;
 
 
 
