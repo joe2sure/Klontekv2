@@ -16,12 +16,12 @@ const LetsBuildSection = () => {
                                     <p>1791 Yorkshire Circle Kitty<br />
                                         Hawk, NC 279499</p>
                                 </div>
-                                {/* <div className="tekup-contact-info mb-0">
+                                <div className="tekup-contact-info mb-0">
                                     <i className="ri-mail-fill"></i>
                                     <h5>Contact</h5>
                                     <Link href="mailto:name@email.com">info@mthemeus.com</Link>
                                     <Link href="tel:123">518-564-3200</Link>
-                                </div> */}
+                                </div>
                             </div>
                         </div>
                     </div>
