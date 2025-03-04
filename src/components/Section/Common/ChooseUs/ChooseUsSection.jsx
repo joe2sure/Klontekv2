@@ -4,12 +4,6 @@ import Link from "next/link";
 
 const ChooseUsSection = ({ className }) => {
   return (
-    <div className="section tekup-section-padding2">
-                 
-                <div className="tekup-section-title center">
-                    <h2>Why you should choose us?</h2>
-                </div>
-
       <div className={className}>
         <div className="container">
           <div className="row">
@@ -67,7 +61,6 @@ const ChooseUsSection = ({ className }) => {
           </div>
         </div>
       </div>
-    </div>
   );
 };
 

@@ -1,1 +1,1 @@
-export { default } from "./ChooseUsSection ";
+export { default } from "./ChooseSection ";

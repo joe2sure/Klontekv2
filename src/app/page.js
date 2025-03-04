@@ -11,7 +11,7 @@ import RecentProjectsSection from "~/components/Section/Common/RecentProjectsSec
 import ServiceSlideSection from "~/components/Section/Common/ServiceSlideSection";
 import TeamSection from "~/components/Section/Common/TeamSection";
 import TestimonialSection from "~/components/Section/Common/TestimonialSection";
-import ChooseUsSection from '~/components/Section/Common/ChooseUs/ChooseUsSection';
+import ChooseSection from '~/components/Section/Common/ChooseUs/ChooseSection';
 import FactSection from '~/components/Section/Common/Fact/FactSection';
 import LetsBuildSection from "~/components/Section/Common/LetsBuildSection";
 import PricingSection from "~/components/Section/Common/PricingSection";
@@ -29,7 +29,7 @@ const Home = () => {
       <ServiceSlideSection />
       <WorkProcessSection />
       <FactSection />
-      <ChooseUsSection />
+      <ChooseSection />
       <PricingSection />
       <ItSolutionSection />
       <RecentProjectsSection />
