@@ -308,7 +308,7 @@ const Header = () => {
                             </Link>
                           </li>
                           <li className="sub-menu--item">
-                            <Link href="portfolio-02">
+                            <Link href="portfolio">
                               <span className="menu-item-text">Portfolio masonry</span>
                             </Link>
                           </li>

@@ -1,1 +1,1 @@
-export { default } from "./FooterSevenSection";
+export { default } from "./FooterSection";
