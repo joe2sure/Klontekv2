@@ -9,12 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.4.7",
+    "@mui/material": "^6.4.7",
     "@types/isotope-layout": "^3.0.14",
     "bootstrap": "^5.3.3",
     "isotope-layout": "^3.0.6",
     "next": "15.2.0",
     "react": "^19.0.0",
     "react-bootstrap": "^2.10.9",
+    "react-bootstrap-icons": "^1.11.3",
     "react-countup": "^6.5.3",
     "react-dom": "^19.0.0",
     "react-slick": "^0.30.3",
