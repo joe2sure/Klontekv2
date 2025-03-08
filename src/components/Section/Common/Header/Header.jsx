@@ -44,9 +44,9 @@ const Header = () => {
 
   // Array of hero images for the carousel
   const heroImages = [
-    "/images/hero/hero-bg1.png",
-    "/images/hero/hero-bg2.png",
-    "/images/hero/hero-bg3.png",
+    "/images/hero/hero_laptop_1.jpg",
+    "/images/hero/hero_iphone_1.jpg",
+    "/images/hero/hero_headphone_1.jpg",
   ];
 
   // Auto-scroll logic for hero images
