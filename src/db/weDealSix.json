@@ -1,32 +1,38 @@
 [
     {
-        "image": "/images/v3/s_1.png",
+        "image": "/images/v3/illustration/software_development.jpg",
         "icon": "/images/v3/icon1.png",
-        "title": "Web Development",
-        "description": "We are architects of innovation trailblazers technological"
+        "title": "Software Development",
+        "description": "Custom software solutions tailored to your business needs, built with cutting-edge technologies and methodologies."
     },
     {
-        "image": "/images/v3/s_2.png",
+        "image": "/images/v3/illustration/ai_1.jpg",
         "icon": "/images/v3/icon2.png",
-        "title": "App Development",
-        "description": "We are architects of innovation trailblazers technological"
+        "title": "AI & Machine Learning Solutions",
+        "description": "Innovative AI and machine learning implementations that transform your data into actionable insights and automated processes."
     },
     {
-        "image": "/images/v3/s_3.png",
+        "image": "/images/v3/illustration/design_img.jpg",
         "icon": "/images/v3/icon3.png",
-        "title": "UI/UX Design",
-        "description": "We are architects of innovation trailblazers technological"
+        "title": "Design",
+        "description": "Creative and user-centered design services that enhance user experience and strengthen your brand identity."
     },
     {
-        "image": "/images/v3/s_4.png",
+        "image": "/images/v3/illustration/digital_market.jpg",
         "icon": "/images/v3/icon4.png",
         "title": "Digital Marketing",
-        "description": "We are architects of innovation trailblazers technological"
+        "description": "Strategic digital marketing campaigns that boost your online presence and drive measurable business growth."
     },
     {
-        "image": "/images/v3/s_1.png",
+        "image": "/images/v3/illustration/bi_analytics.jpg",
         "icon": "/images/v3/icon2.png",
-        "title": "Web Development",
-        "description": "We are architects of innovation trailblazers technological"
+        "title": "Business Intelligence & Analytics",
+        "description": "Comprehensive data analysis tools and dashboards that provide valuable business insights for informed decision-making."
+    },
+    {
+        "image": "/images/v3/illustration/cybersecurity.jpg",
+        "icon": "/images/v3/icon2.png",
+        "title": "Cybersecurity & Data Privacy",
+        "description": "Robust security solutions that protect your sensitive data and ensure compliance with privacy regulations."
     }
 ]
