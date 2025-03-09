@@ -42,6 +42,19 @@ const Header = () => {
   const isMobile = useMediaQuery(theme.breakpoints.down("lg"));
   const isSmallMobile = useMediaQuery(theme.breakpoints.down("sm"));
 
+  const mobileMenuStyles = {
+    position: 'fixed',
+    top: 0,
+    left: 0,
+    width: '100%',
+    height: '100%',
+    backgroundColor: 'white',
+    zIndex: 1300,
+    overflowY: 'auto',
+    transition: 'transform 0.3s ease-in-out',
+    transform: isActive ? 'translateX(0)' : 'translateX(-100%)',
+  };
+
   // Array of hero images for the carousel
   const heroImages = [
     "/images/hero/hero_laptop_1.jpg",

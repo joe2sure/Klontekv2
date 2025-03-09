@@ -12,7 +12,7 @@ const RecentBlogSection = () => {
                         <div className="tekup-blog-wrap bg-white border-0">
                             <Link href="single-blog">
                                 <div className="tekup-blog-thumb">
-                                    <img src="/images/blog/blog7.png" alt />
+                                    <img src="/images/blog/blog7.png" alt="" />
                                 </div>
                             </Link>
                             <div className="tekup-blog-content content-large">
@@ -34,7 +34,7 @@ const RecentBlogSection = () => {
                         <div className="tekup-blog-wrap blog-grid bg-white border-0">
                             <Link href="single-blog">
                                 <div className="tekup-blog-thumb">
-                                    <img src="/images/blog/blog1.png" alt />
+                                    <img src="/images/blog/blog1.png" alt="" />
                                 </div>
                             </Link>
                             <div className="tekup-blog-content">
@@ -53,7 +53,7 @@ const RecentBlogSection = () => {
                         <div className="tekup-blog-wrap blog-grid bg-white border-0">
                             <Link href="single-blog">
                                 <div className="tekup-blog-thumb">
-                                    <img src="/images/blog/blog2.png" alt />
+                                    <img src="/images/blog/blog2.png" alt="" />
                                 </div>
                             </Link>
                             <div className="tekup-blog-content">
@@ -72,7 +72,7 @@ const RecentBlogSection = () => {
                         <div className="tekup-blog-wrap blog-grid bg-white border-0">
                             <Link href="single-blog">
                                 <div className="tekup-blog-thumb">
-                                    <img src="/images/blog/blog3.png" alt />
+                                    <img src="/images/blog/blog3.png" alt="" />
                                 </div>
                             </Link>
                             <div className="tekup-blog-content">
