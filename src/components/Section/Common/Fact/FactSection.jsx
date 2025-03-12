@@ -28,15 +28,15 @@ const FactSection = () => {
         <div className="container">
           <div className="tekup-counter-wrap4">
             <div className="tekup-counter-data4">
-              <h2><span>{isVisible && <CountUp end={26} duration={3} />}</span>+</h2>
+              <h2><span>{isVisible && <CountUp end={5} duration={3} />}</span>+</h2>
               <p>Years of Experience</p>
             </div>
             <div className="tekup-counter-data4">
-              <h2><span>{isVisible && <CountUp end={730} duration={3} />}</span>+</h2>
+              <h2><span>{isVisible && <CountUp end={50} duration={3} />}</span>+</h2>
               <p>Successfully Projects</p>
             </div>
             <div className="tekup-counter-data4">
-              <h2><span>{isVisible && <CountUp end={198} duration={3} />}</span>+</h2>
+              <h2><span>{isVisible && <CountUp end={20} duration={3} />}</span>+</h2>
               <p>Satisfied Happy Clients</p>
             </div>
           </div>

@@ -1,8 +1,8 @@
 [
     {
-      "name": "Marvin McKinney",
+      "name": "O. I Joseph",
       "position": "CEO & Founder",
-      "image": "/images/team/team1.png",
+      "image": "/images/team/Joe.jpg",
       "socialMedia": {
         "linkedin": "https://www.linkedin.com/",
         "twitter": "https://twitter.com/",
@@ -10,9 +10,9 @@
       }
     },
     {
-      "name": "Sophia Rodriguez",
-      "position": "Creative Director",
-      "image": "/images/team/team2.png",
+      "name": "Dr. O. U. Emmanuel",
+      "position": "Managing Director",
+      "image": "/images/team/daddy_go.jpg",
       "socialMedia": {
         "linkedin": "https://www.linkedin.com/",
         "twitter": "https://twitter.com/",
@@ -20,9 +20,9 @@
       }
     },
     {
-      "name": "Alexander Cameron",
-      "position": "Lead Developer",
-      "image": "/images/team/team3.png",
+      "name": "Dr Uche Igboeli ",
+      "position": "CTO",
+      "image": "/images/team/uche.jpg",
       "socialMedia": {
         "linkedin": "https://www.linkedin.com/",
         "twitter": "https://twitter.com/",
@@ -30,9 +30,9 @@
       }
     },
     {
-      "name": "Brooklyn Simmons",
-      "position": "Product Designer",
-      "image": "/images/team/team4.png",
+      "name": "Msc Tricia Ibe",
+      "position": "Product Manager",
+      "image": "/images/team/tricia.jpg",
       "socialMedia": {
         "linkedin": "https://www.linkedin.com/",
         "twitter": "https://twitter.com/",
@@ -40,9 +40,9 @@
       }
     },
     {
-      "name": "Brooklyn Simmons",
-      "position": "Product Designer",
-      "image": "/images/team/team5.png",
+      "name": "Uzor Benjamin",
+      "position": "Lead Backend Engineer",
+      "image": "/images/team/Uzor.jpg",
       "socialMedia": {
         "linkedin": "https://www.linkedin.com/",
         "twitter": "https://twitter.com/",
@@ -50,9 +50,9 @@
       }
     },
     {
-      "name": "Brooklyn Simmons",
-      "position": "Product Designer",
-      "image": "/images/team/team6.png",
+      "name": "Ahmed Kenny",
+      "position": "Lead Software Engineer",
+      "image": "/images/team/desmond.jpg",
       "socialMedia": {
         "linkedin": "https://www.linkedin.com/",
         "twitter": "https://twitter.com/",
@@ -60,9 +60,9 @@
       }
     },
     {
-      "name": "Brooklyn Simmons",
-      "position": "Product Designer",
-      "image": "/images/team/team7.png",
+      "name": "Chiamaka Azuh",
+      "position": "Lead UI/UX Designer",
+      "image": "/images/team/ama.jpg",
       "socialMedia": {
         "linkedin": "https://www.linkedin.com/",
         "twitter": "https://twitter.com/",
@@ -70,9 +70,9 @@
       }
     },
     {
-      "name": "Brooklyn Simmons",
-      "position": "Product Designer",
-      "image": "/images/team/team7.png",
+      "name": "Onyeka Bridget",
+      "position": "HR Klontek",
+      "image": "/images/team/bridget.jpg",
       "socialMedia": {
         "linkedin": "https://www.linkedin.com/",
         "twitter": "https://twitter.com/",

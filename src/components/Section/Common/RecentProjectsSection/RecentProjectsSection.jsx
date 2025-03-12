@@ -11,12 +11,12 @@ const RecentProjectsSection = () => {
                     <div className="col-xl-4 col-md-6">
                         <div className="tekup-portfolio-wrap2">
                             <div className="tekup-portfolio-thumb2">
-                                <img src="/images/p2/p_1.png" alt="" />
+                                <img src="/images/p2/AI_app_2.jpg" alt="" />
                                 <div className="tekup-portfolio-data2">
                                     <Link href="single-portfolio">
-                                        <h5>Design of the year</h5>
+                                        <h5>kortex.ai</h5>
                                     </Link>
-                                    <p>UI/UX Design</p>
+                                    <p>AI Multi-agent App</p>
                                     <Link className="tekup-portfolio-btn2" href="single-portfolio"><i className="ri-arrow-right-up-line"></i></Link>
                                 </div>
                             </div>
@@ -25,12 +25,12 @@ const RecentProjectsSection = () => {
                     <div className="col-xl-4 col-md-6">
                         <div className="tekup-portfolio-wrap2">
                             <div className="tekup-portfolio-thumb2">
-                                <img src="/images/p2/p_2.png" alt="" />
+                                <img src="/images/p2/Elearning_phone2.jpg" alt="" />
                                 <div className="tekup-portfolio-data2">
                                     <Link href="single-portfolio">
-                                        <h5> Ways to level up your brand</h5>
+                                        <h5> Kloncept</h5>
                                     </Link>
-                                    <p>Branding</p>
+                                    <p>Elearning platform</p>
                                     <Link className="tekup-portfolio-btn2" href="single-portfolio"><i className="ri-arrow-right-up-line"></i></Link>
                                 </div>
                             </div>
@@ -39,12 +39,12 @@ const RecentProjectsSection = () => {
                     <div className="col-xl-4 col-md-6">
                         <div className="tekup-portfolio-wrap2">
                             <div className="tekup-portfolio-thumb2">
-                                <img src="/images/p2/p_3.png" alt="" />
+                                <img src="/images/p2/crypto_site_1.jpg" alt="" />
                                 <div className="tekup-portfolio-data2">
                                     <Link href="single-portfolio">
-                                        <h5>Cyber Security Analysis</h5>
+                                        <h5>Crypto Analysis Web App</h5>
                                     </Link>
-                                    <p>Technology</p>
+                                    <p>Blockchain</p>
                                     <Link className="tekup-portfolio-btn2" href="single-portfolio"><i className="ri-arrow-right-up-line"></i></Link>
                                 </div>
                             </div>
@@ -53,12 +53,12 @@ const RecentProjectsSection = () => {
                     <div className="col-xl-4 col-md-6">
                         <div className="tekup-portfolio-wrap2">
                             <div className="tekup-portfolio-thumb2">
-                                <img src="/images/p2/p_4.png" alt="" />
+                                <img src="/images/p2/grocery_1.jpg" alt="" />
                                 <div className="tekup-portfolio-data2">
                                     <Link href="single-portfolio">
-                                        <h5>Design Discussion</h5>
+                                        <h5>noHungerApp</h5>
                                     </Link>
-                                    <p>Design</p>
+                                    <p>E-Grocery App</p>
                                     <Link className="tekup-portfolio-btn2" href="single-portfolio"><i className="ri-arrow-right-up-line"></i></Link>
                                 </div>
                             </div>
@@ -67,10 +67,10 @@ const RecentProjectsSection = () => {
                     <div className="col-xl-8 col-md-12">
                         <div className="tekup-portfolio-wrap2">
                             <div className="tekup-portfolio-thumb2">
-                                <img src="/images/p2/p_5.png" alt="" />
+                                <img src="/images/p2/estate_webiste.jpg" alt="" />
                                 <div className="tekup-portfolio-data2">
                                     <Link href="single-portfolio">
-                                        <h5>Product Security Analysis</h5>
+                                        <h5>Real Estate Web App</h5>
                                     </Link>
                                     <p>Product</p>
                                     <Link className="tekup-portfolio-btn2" href="single-portfolio"><i className="ri-arrow-right-up-line"></i></Link>

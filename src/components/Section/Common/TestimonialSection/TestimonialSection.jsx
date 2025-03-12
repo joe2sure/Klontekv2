@@ -6,7 +6,6 @@ import testimonial from '~/db/homeSevenTestimonial.json'
 import TestimonialsCard from "~/components/Element/Cards/TestimonialsCard";
 const TestimonialSection = () => {
     const settings = {
-
         infinite: true,
         speed: 500,
         slidesToShow: 1,
@@ -18,7 +17,7 @@ const TestimonialSection = () => {
         <div className="section dark-bg tekup-section-padding">
             <div className="container">
                 <div className="tekup-section-title center light-color">
-                    <h2>Trusted by more than 200+ client’s around the world</h2>
+                    <h2>Trusted by more than 100+ client’s around the world</h2>
                 </div>
                 <div className="tekup-t-two-column-slider-wrap border-0">
                     <Slider {...settings} className="tekup-t-two-column-slider">

@@ -1,20 +1,20 @@
 [
     {
-        "image": "/images/v2/t-thumb1.png",
+        "image": "/images/v2/charlse.jpg",
         "rating": 5,
         "testimonial": "If you’re looking for a rewarding career and a chance to make an impact, you’ve come to the right place. We will transform your business through our techniques!",
         "author": {
-            "name": "Alexander Cameron",
+            "name": "Onochie Charles",
             "role": "Lead Developer"
         }
     },
     {
-        "image": "/images/v2/t-thumb2.png",
+        "image": "/images/v2/uche.jpg",
         "rating": 5,
         "testimonial": "If you’re looking for a rewarding career and a chance to make an impact, you’ve come to the right place. We will transform your business through our techniques!",
         "author": {
-            "name": "Alexander Cameron",
-            "role": "Lead Developer"
+            "name": "Dr Uche Igboeli",
+            "role": "CTO"
         }
     }
 ]
