@@ -1,26 +1,26 @@
 [
     {
-        "image": "/images/p1/p_1.png",
-        "title": "Design of the year",
-        "category": "UI/UX Design",
+        "image": "/images/p1/anita.jpg",
+        "title": "UI/UX Designer",
+        "category": "Figma/Photoshop",
         "link": "single-portfolio"
     },
     {
-        "image": "/images/p1/p_2.png",
-        "title": "Ways to level up your brand",
-        "category": "Branding",
+        "image": "/images/p1/chisom.jpg",
+        "title": "Frontend Engineer",
+        "category": "Reactjs/Nextjs",
         "link": "single-portfolio"
     },
     {
-        "image": "/images/p1/p_3.png",
-        "title": "Cyber Security Analysis",
-        "category": "Technology",
+        "image": "/images/p1/Daniel.jpg",
+        "title": "Computer Vision Engineer",
+        "category": "NLTK, SpaCy, Transformers, BERT, GPT",
         "link": "single-portfolio"
     },
     {
-        "image": "/images/p1/p_5.png",
-        "title": "Product Security Analysis",
-        "category": "Product",
+        "image": "/images/p1/johnson.jpg",
+        "title": "Mobile Frontend Engineer",
+        "category": "Flutter",
         "link": "single-portfolio"
     }
 ]

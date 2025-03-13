@@ -36,7 +36,7 @@ const ElearningSection = () => {
         <div className="tekup-portfolio-section bg-light1 tekup-section-padding-top">
             <div className="container">
                 <div className="tekup-section-title center light-color">
-                    <h2>Explore our recent projects</h2>
+                    <h2>Our Academy Alumni</h2>
                 </div>
                 <Slider  {...settings} >
                     {
@@ -44,7 +44,6 @@ const ElearningSection = () => {
                     }
                 </Slider>
             </div>
-
         </div>
     );
 };
