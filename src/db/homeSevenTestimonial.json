@@ -2,19 +2,19 @@
     {
         "image": "/images/v2/charlse.jpg",
         "rating": 5,
-        "testimonial": "If you’re looking for a rewarding career and a chance to make an impact, you’ve come to the right place. We will transform your business through our techniques!",
+        "testimonial": "Joining this academy was the best decision I made for my career. The hands-on training and mentorship helped me grow into a confident Lead Developer.",
         "author": {
             "name": "Onochie Charles",
             "role": "Lead Developer"
         }
     },
     {
-        "image": "/images/v2/uche.jpg",
+        "image": "/images/team/steve.jpg",
         "rating": 5,
-        "testimonial": "If you’re looking for a rewarding career and a chance to make an impact, you’ve come to the right place. We will transform your business through our techniques!",
+        "testimonial": "The academy’s innovative approach to learning transforms technical skills and leadership abilities. I highly recommend it to anyone aspiring to excel in tech.",
         "author": {
-            "name": "Dr Uche Igboeli",
-            "role": "CTO"
+            "name": "Dr I.M Steve ",
+            "role": "CTO Kobi"
         }
     }
 ]
