@@ -1,122 +1,214 @@
 [
-    {
-      "id": 1,
-      "image": "/images/shop/shop01.png",
-      "name": "Black Headphone",
-      "price": "$39.00",
-      "originalPrice": "$39.00",
-      "sale": true,
-      "addToCartLink": "my-cart",
-      "productLink": "single-shop"
-    },
-    {
-      "id": 2,
-      "image": "/images/shop/shop2.png",
-      "name": "Meta VR Headset",
-      "price": "$39.00",
-      "originalPrice": null,
-      "sale": false,
-      "addToCartLink": "my-cart",
-      "productLink": "single-shop"
-    },
-    {
-      "id": 3,
-      "image": "/images/shop/shop3.png",
-      "name": "Cellular Smart Watch",
-      "price": "$249.00",
-      "originalPrice": null,
-      "sale": false,
-      "addToCartLink": "my-cart",
-      "productLink": "single-shop"
-    },
-    {
-      "id": 4,
-      "image": "/images/shop/shop4.png",
-      "name": "Portable Projector",
-      "price": "$69.00",
-      "originalPrice": null,
-      "sale": false,
-      "addToCartLink": "my-cart",
-      "productLink": "single-shop"
-    },
-    {
-      "id": 5,
-      "image": "/images/shop/shop5.png",
-      "name": "Wireless Controller",
-      "price": "$49.00",
-      "originalPrice": null,
-      "sale": false,
-      "addToCartLink": "my-cart",
-      "productLink": "single-shop"
-    },
-    {
-      "id": 6,
-      "image": "/images/shop/shop6.png",
-      "name": "Beats Wireless Buds",
-      "price": "$119.00",
-      "originalPrice": null,
-      "sale": true,
-      "addToCartLink": "my-cart",
-      "productLink": "single-shop"
-    },
-    {
-      "id": 7,
-      "image": "/images/shop/shop7.png",
-      "name": "20W USB-C Charger",
-      "price": "$69.00",
-      "originalPrice": null,
-      "sale": false,
-      "addToCartLink": "my-cart",
-      "productLink": "single-shop"
-    },
-    {
-      "id": 8,
-      "image": "/images/shop/shop8.png",
-      "name": "Logitech Mouse",
-      "price": "$19.00",
-      "originalPrice": "$29.00",
-      "sale": true,
-      "addToCartLink": "my-cart",
-      "productLink": "single-shop"
-    },
-    {
-      "id": 9,
-      "image": "/images/shop/shop9.png",
-      "name": "Cellular Smart Watch",
-      "price": "$249.00",
-      "originalPrice": null,
-      "sale": false,
-      "addToCartLink": "my-cart",
-      "productLink": "single-shop"
-    },
-    {
-      "id": 10,
-      "image": "/images/shop/shop10.png",
-      "name": "Lightning Cable",
-      "price": "$19.00",
-      "originalPrice": null,
-      "sale": false,
-      "addToCartLink": "my-cart",
-      "productLink": "single-shop"
-    },
-    {
-      "id": 11,
-      "image": "/images/shop/shop11.png",
-      "name": "Compact Microphone",
-      "price": "$99.00",
-      "originalPrice": "$119.00",
-      "sale": true,
-      "addToCartLink": "my-cart",
-      "productLink": "single-shop"
-    },
-    {
-      "id": 12,
-      "image": "/images/shop/shop12.png",
-      "name": "MagSafe Charger",
-      "price": "$19.00",
-      "originalPrice": null,
-      "sale": false,
-      "addToCartLink": "my-cart",
-      "productLink": "single-shop"
-    }
-  ]
+  {
+    "id": 1,
+    "image": "/images/shop/light_gray_head_phone1.jpg",
+    "images": [
+      "/images/shop/light_gray_head_phone1.jpg",
+      "/images/shop/light_gray_head_phone2.jpg",
+      "/images/shop/light_gray_head_phone3.jpg"
+    ],
+    "name": "Black Headphone",
+    "price": "£39.00",
+    "originalPrice": "£39.00",
+    "sale": true,
+    "addToCartLink": "my-cart",
+    "productLink": "single-shop",
+    "description": "This is a high-quality black headphone with excellent sound quality.",
+    "specification": "Frequency Response: 20Hz - 20kHz, Impedance: 32 ohms, Sensitivity: 98dB.",
+    "reviews": "Great product with excellent sound quality.",
+    "category": "Headphones",
+    "tags": ["Audio", "Electronics"]
+  },
+  {
+    "id": 2,
+    "image": "/images/shop/meta_vr_1.jpg",
+    "images": [
+      "/images/shop/meta_vr_1.jpg",
+      "/images/shop/meta_vr_1.jpg",
+      "/images/shop/meta_vr_1.jpg"
+    ],
+    "name": "Meta VR Headset",
+    "price": "£39.00",
+    "originalPrice": null,
+    "sale": false,
+    "addToCartLink": "my-cart",
+    "productLink": "single-shop",
+    "description": "This is a high-quality VR headset for immersive experiences.",
+    "specification": "Resolution: 1832 x 1920 per eye, Refresh Rate: 90Hz, Field of View: 110°.",
+    "reviews": "Amazing VR experience with great visuals.",
+    "category": "Virtual Reality",
+    "tags": ["VR", "Gaming", "Electronics"]
+  },
+  {
+    "id": 3,
+    "image": "/images/shop/apple_watch_2.jpg",
+    "images": [
+      "/images/shop/apple_watch_2.jpg",
+      "/images/shop/apple_watch_2.jpg",
+      "/images/shop/apple_watch_2.jpg"
+    ],
+    "name": "Cellular Smart Watch",
+    "price": "£249.00",
+    "originalPrice": null,
+    "sale": false,
+    "addToCartLink": "my-cart",
+    "productLink": "single-shop",
+    "description": "A modern smart watch with cellular connectivity.",
+    "specification": "Display: OLED, Connectivity: Bluetooth, Cellular.",
+    "reviews": "Highly functional and stylish.",
+    "category": "Smartwatches",
+    "tags": ["Wearable", "Electronics", "Fitness"]
+  },
+  {
+    "id": 4,
+    "image": "/images/shop/projector_3.jpg",
+    "images": [
+      "/images/shop/projector_3.jpg",
+      "/images/shop/projector_3.jpg",
+      "/images/shop/projector_3.jpg"
+    ],
+    "name": "Portable Projector",
+    "price": "£69.00",
+    "originalPrice": null,
+    "sale": false,
+    "addToCartLink": "my-cart",
+    "productLink": "single-shop",
+    "description": "A compact and portable projector with HD quality.",
+    "specification": "Resolution: 1080p, Connectivity: HDMI, USB, Bluetooth.",
+    "reviews": "Great for presentations and home cinema.",
+    "category": "Projectors",
+    "tags": ["Entertainment", "Electronics", "Portable"]
+  },
+  {
+    "id": 5,
+    "image": "/images/shop/xbox_3.jpg",
+    "images": [
+      "/images/shop/xbox_3.jpg",
+      "/images/shop/xbox_3.jpg",
+      "/images/shop/xbox_3.jpg"
+    ],
+    "name": "Wireless Controller",
+    "price": "£49.00",
+    "originalPrice": null,
+    "sale": false,
+    "addToCartLink": "my-cart",
+    "productLink": "single-shop",
+    "description": "Ergonomic wireless gaming controller.",
+    "specification": "Connectivity: Bluetooth, USB-C, Battery Life: 40 hours.",
+    "reviews": "Smooth gaming experience with no lag.",
+    "category": "Gaming Accessories",
+    "tags": ["Gaming", "Electronics", "Accessories"]
+  },
+  {
+    "id": 6,
+    "image": "/images/shop/earpiece_4.jpg",
+    "images": [
+      "/images/shop/earpiece_4.jpg",
+      "/images/shop/earpiece_4.jpg",
+      "/images/shop/earpiece_4.jpg"
+    ],
+    "name": "Beats Wireless Buds",
+    "price": "£119.00",
+    "originalPrice": null,
+    "sale": true,
+    "addToCartLink": "my-cart",
+    "productLink": "single-shop",
+    "description": "Premium wireless earbuds with deep bass.",
+    "specification": "Battery Life: 9 hours, Noise Cancellation: Yes.",
+    "reviews": "Excellent sound with a snug fit.",
+    "category": "Earbuds",
+    "tags": ["Audio", "Wireless", "Electronics"]
+  },
+  {
+    "id": 7,
+    "image": "/images/shop/cord_1.jpg",
+    "images": [
+      "/images/shop/cord_1.jpg",
+      "/images/shop/cord_1.jpg",
+      "/images/shop/cord_1.jpg"
+    ],
+    "name": "20W USB-C Charger",
+    "price": "£69.00",
+    "originalPrice": null,
+    "sale": false,
+    "addToCartLink": "my-cart",
+    "productLink": "single-shop",
+    "description": "Fast charging USB-C charger for all devices.",
+    "specification": "Power Output: 20W, Compatibility: Universal.",
+    "reviews": "Charges quickly and efficiently.",
+    "category": "Chargers",
+    "tags": ["Accessories", "Charging", "Electronics"]
+  },
+  {
+    "id": 8,
+    "image": "/images/shop/mouse_4.jpg",
+    "images": [
+      "/images/shop/mouse_4.jpg",
+      "/images/shop/mouse_4.jpg",
+      "/images/shop/mouse_4.jpg"
+    ],
+    "name": "Logitech Mouse",
+    "price": "£19.00",
+    "originalPrice": "£29.00",
+    "sale": true,
+    "addToCartLink": "my-cart",
+    "productLink": "single-shop",
+    "description": "Ergonomic wireless mouse with precision tracking.",
+    "specification": "Connectivity: Bluetooth, Battery Life: 12 months.",
+    "reviews": "Very comfortable and precise.",
+    "category": "Computer Accessories",
+    "tags": ["Wireless", "Electronics", "Peripheral"]
+  },
+  {
+    "id": 9,
+    "image": "/images/shop/apple_watch_1.jpg",
+    "images": [
+      "/images/shop/apple_watch_1.jpg",
+      "/images/shop/apple_watch_1.jpg",
+      "/images/shop/apple_watch_1.jpg"
+    ],
+    "name": "Cellular Smart Watch",
+    "price": "£249.00",
+    "originalPrice": null,
+    "sale": false,
+    "addToCartLink": "my-cart",
+    "productLink": "single-shop",
+    "description": "A modern smart watch with cellular connectivity.",
+    "category": "Smartwatches",
+    "tags": ["Wearable", "Electronics", "Fitness"]
+  },
+  {
+    "id": 10,
+    "image": "/images/shop/light_cable_1.jpg",
+    "images": [
+      "/images/shop/light_cable_1.jpg",
+      "/images/shop/light_cable_1.jpg",
+      "/images/shop/light_cable_1.jpg"
+    ],
+    "name": "Lightning Cable",
+    "price": "£19.00",
+    "originalPrice": null,
+    "sale": false,
+    "category": "Cables",
+    "tags": ["Charging", "Accessories", "Electronics"]
+  },
+  {
+    "id": 11,
+    "image": "/images/shop/mic_4.jpg",
+    "name": "Compact Microphone",
+    "price": "£99.00",
+    "originalPrice": "£119.00",
+    "sale": true,
+    "category": "Microphones",
+    "tags": ["Audio", "Recording", "Electronics"]
+  },
+  {
+    "id": 12,
+    "image": "/images/shop/mag_safe_charger.jpg",
+    "name": "MagSafe Charger",
+    "price": "£19.00",
+    "sale": false,
+    "category": "Chargers",
+    "tags": ["Wireless", "Accessories", "Electronics"]
+  }
+]

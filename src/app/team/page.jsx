@@ -5,15 +5,22 @@ import PageHeader from "~/components/Section/Common/PageHeader";
 import MultipleTeamSection from "~/components/Page/Team/MultipleTeamSection";
 
 const TeamPage = () => {
-    return (
-        <>
-          <Header/>
-          <PageHeader title="Our team"/>  
-          <MultipleTeamSection/>
-          <CtaSection/>
-          <Footer/>
-        </>
-    );
+  return (
+    <>
+      <Header />
+      <PageHeader
+        title="Our team"
+        bgImages={[
+          "/images/shop/checkout1.jpg",
+          "/images/shop/checkout2.jpg",
+          "/images/shop/checkout3.jpg",
+        ]}
+      />
+      <MultipleTeamSection />
+      <CtaSection />
+      <Footer />
+    </>
+  );
 };
 
 export default TeamPage;

@@ -1,5 +1,6 @@
 [
     {
+      "id": 1,
       "name": "O. I Joseph",
       "position": "CEO & Founder",
       "image": "/images/team/Joe.jpg",
@@ -10,6 +11,7 @@
       }
     },
     {
+      "id": 2,
       "name": "Dr. O. U. Emmanuel",
       "position": "Managing Director",
       "image": "/images/team/daddy_go.jpg",
@@ -20,6 +22,7 @@
       }
     },
     {
+      "id": 3,
       "name": "Dr Uche Igboeli ",
       "position": "CTO",
       "image": "/images/team/uche.jpg",
@@ -30,6 +33,7 @@
       }
     },
     {
+      "id": 4,
       "name": "Msc Tricia Ibe",
       "position": "Product Manager",
       "image": "/images/team/tricia.jpg",
@@ -40,6 +44,7 @@
       }
     },
     {
+      "id": 5,
       "name": "Uzor Benjamin",
       "position": "Lead Backend Engineer",
       "image": "/images/team/Uzor.jpg",
@@ -50,6 +55,7 @@
       }
     },
     {
+      "id": 6,
       "name": "Ahmed Kenny",
       "position": "Lead Software Engineer",
       "image": "/images/team/desmond.jpg",
@@ -60,6 +66,7 @@
       }
     },
     {
+      "id": 7,
       "name": "Chiamaka Azuh",
       "position": "Lead UI/UX Designer",
       "image": "/images/team/ama.jpg",
@@ -70,6 +77,7 @@
       }
     },
     {
+      "id": 8,
       "name": "Onyeka Bridget",
       "position": "HR Klontek",
       "image": "/images/team/bridget.jpg",

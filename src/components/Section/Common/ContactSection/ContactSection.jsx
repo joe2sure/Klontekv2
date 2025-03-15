@@ -16,14 +16,15 @@ const ContactSection = () => {
                   <div className="tekup-contact-info mb-0">
                     <i className="ri-map-pin-2-fill"></i>
                     <h5>Address</h5>
-                    <p>1791 Yorkshire Circle Kitty<br/>
-                  Hawk, NC 279499</p>
+                    <p>Head Office: Waterloo Rd, <br/>Wolverhampton, UK
+                    <br/>
+                    Regional Office: Lagos, Nigeria</p>
                   </div>
                   <div className="tekup-contact-info mb-0">
                     <i className="ri-mail-fill"></i>
                     <h5>Contact</h5>
-                    <Link href="mailto:name@email.com">info@mthemeus.com</Link>
-                    <Link href="tel:123">518-564-3200</Link>
+                    <Link href="mailto:hrklontek@gmail.com">hrklontek@gmail.com</Link>
+                    <Link href="tel:123">+234 7017006937, <br/>+44 7482187549</Link>
                   </div>
                 </div>
               </div>
