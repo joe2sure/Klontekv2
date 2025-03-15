@@ -4,6 +4,7 @@ const nextConfig = {
   compiler: {
     styledComponents: true, // This enables styled-components support
   },
+  output: 'standalone'
 };
 
 export default nextConfig;

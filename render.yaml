@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: nextjs-app
+    runtime: node
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    env: node
+    envVars:
+      - key: NODE_ENV
+        value: production
