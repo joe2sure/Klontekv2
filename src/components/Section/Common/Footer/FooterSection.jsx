@@ -92,7 +92,7 @@ export default function FooterSection() {
                         </div>
                         <div className="tekup-footer-bottom center dark">
                             <div className="tekup-copywright">
-                                <p> © 2024 MthemeUs. All rights reserved.</p>
+                                <p> © 2024 klontek. All rights reserved.</p>
                             </div>
                         </div>
                     </div>

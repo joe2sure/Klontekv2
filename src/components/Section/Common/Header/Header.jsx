@@ -838,7 +838,7 @@ const Header = () => {
           <Typography variant="h6" fontWeight="bold">
             Explore Our Store
           </Typography>
-          <Link href="/store">
+          <Link href="/shop">
             <Box
               sx={{
                 display: "flex",

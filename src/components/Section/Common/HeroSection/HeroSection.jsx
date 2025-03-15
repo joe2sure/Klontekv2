@@ -74,7 +74,7 @@ const HeroSection = () => {
                             <div className="tekup-extra-mt">
                                 <div className="tekup-hero-btn-wrap">
                                     <Link className="tekup-default-btn" href="contact-us">Start a Project <i className="ri-arrow-right-up-line"></i></Link>
-                                    <Link className="tekup-default-btn outline-btn-dark" href="portfolio-01">Our Works <i className="ri-arrow-right-up-line"></i></Link>
+                                    <Link className="tekup-default-btn outline-btn-dark" href="portfolio">Our Works <i className="ri-arrow-right-up-line"></i></Link>
                                 </div>
                             </div>
                         </div>
