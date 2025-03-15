@@ -1,5 +1,5 @@
+import { Suspense } from 'react';
 import SingleShopSection from "~/components/Page/Shop/SingleShop/SingleShopSection";
-
 import Header from "~/components/Section/Common/Header/Header";
 import PageHeader from "~/components/Section/Common/PageHeader";
 import Footer from "~/components/Section/Common/Footer/FooterSection";
@@ -16,7 +16,10 @@ const SinglePage = () => {
           "/images/shop/checkout3.jpg",
         ]}
       />
-      <SingleShopSection />
+      {/* Wrap SingleShopSection in Suspense */}
+      <Suspense fallback={<div>Loading...</div>}>
+        <SingleShopSection />
+      </Suspense>
       <Footer />
     </>
   );
