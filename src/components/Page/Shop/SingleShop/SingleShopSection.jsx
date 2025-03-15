@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useState, useEffect } from 'react';
 import { useSearchParams } from 'next/navigation';
-import Image from 'next/image'; // Import the Image component
+import Image from 'next/image';
 import Products from '~/db/products.json';
 
 const SingleShopSection = () => {
