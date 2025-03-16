@@ -6,7 +6,6 @@ import BrandSection from '~/components/Section/Common/BrandSection';
 import WorkProcessSection from "~/components/Section/Common/WorkProcess/WorkProcessSection";
 import AccordionSection from "~/components/Section/Common/AccordionSection";
 import HeroSection from "~/components/Section/Common/HeroSection";
-import ItSolutionSection from "~/components/Section/Common/ItSolutionSection";
 import RecentProjectsSection from "~/components/Section/Common/RecentProjectsSection";
 import ServiceSlideSection from "~/components/Section/Common/ServiceSlideSection";
 import TeamSection from "~/components/Section/Common/TeamSection";
@@ -18,6 +17,8 @@ import PricingSection from "~/components/Section/Common/PricingSection";
 import ElearningSection from "~/components/Section/Common/Elearning/ElearningSection";
 import QuestionAccordionSection from '~/components/Section/Common/QuestionAccordionSection';
 import RecentBlogSection from '~/components/Section/Common/RecentBlogSection';
+import ItSolutionSection from "~/components/Section/Common/ItSolutionSection";
+// import ItSolutionSection from "~/components/Section/Common/ItSolutionSection";
 
 
 const Home = () => {
