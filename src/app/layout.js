@@ -9,35 +9,34 @@ import "~/assets/css/animate.css";
 import "~/assets/css/react-adjustment.css";
 import "~/assets/css/aos.css";
 import "~/assets/css/magnific-popup.css";
-import React, {useState} from "react";
 import { Metadata } from "~/components/Section/Common/Metadata/Metadata";
 import Loading from "~/components/Element/Loading/Loading";
-// import { usePathname } from "next/navigation";
-// import React, { useEffect, useState } from "react";
-// import { initGA, logPageView } from "~/utils/analytics"; // Import GA utilities
+import { usePathname } from "next/navigation";
+import React, { useEffect, useState } from "react";
+import { initGA, logPageView } from "~/utils/analytics"; // Import GA utilities
 
 export default function RootLayout({ children }) {
   const [isLoading, setIsLoading] = useState(false);
-  // const pathname = usePathname();
+  const pathname = usePathname();
 
-  // useEffect(() => {
-  //   // Initialize Google Analytics
-  //   if (!window.GA_INITIALIZED) {
-  //     initGA();
-  //     window.GA_INITIALIZED = true;
-  //   }
+  useEffect(() => {
+    // Initialize Google Analytics
+    if (!window.GA_INITIALIZED) {
+      initGA();
+      window.GA_INITIALIZED = true;
+    }
 
-  //   // Track page view
-  //   logPageView();
+    // Track page view
+    logPageView();
 
-  //   // Loading state logic
-  //   setIsLoading(true);
-  //   const timer = setTimeout(() => {
-  //     setIsLoading(false);
-  //   }, 200); // Adjust the loading duration as needed
+    // Loading state logic
+    setIsLoading(true);
+    const timer = setTimeout(() => {
+      setIsLoading(false);
+    }, 200); // Adjust the loading duration as needed
 
-  //   return () => clearTimeout(timer);
-  // }, [pathname]);
+    return () => clearTimeout(timer);
+  }, [pathname]);
 
   return (
     <html lang="en">
