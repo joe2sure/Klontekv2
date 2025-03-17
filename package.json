@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "powershell -Command \"Get-ChildItem -Path src/components/Section/Common/ItSolutionSection -Force | Format-Table Name, Length, LastWriteTime\" && next build",
+    "build": "powershell -Command \"Get-ChildItem -Path src/components/Section/Common/TechSolutionSection -Force | Format-Table Name, Length, LastWriteTime\" && next build",
     "start": "next start",
     "lint": "next lint"
   },
