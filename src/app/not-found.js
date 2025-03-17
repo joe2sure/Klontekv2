@@ -3,6 +3,7 @@ import Header from "~/components/Section/Common/Header/Header";
 import Footer from '~/components/Section/Common/Footer/FooterSection';
 
 
+
 const NotFound = () => {
     return (
     <>
@@ -23,5 +24,4 @@ const NotFound = () => {
     </>
     );
 };
-
 export default NotFound;

@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useState, useEffect } from "react";
 
-const ItSolutionSection = () => {
+const SolutionSection = () => {
     // Images for the carousel
     const images = [
         "/images/v5/digital_market_2.jpg",
@@ -122,7 +122,7 @@ const ItSolutionSection = () => {
     );
 };
 
-export default ItSolutionSection;
+export default SolutionSection;
 
 
 

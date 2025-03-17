@@ -17,7 +17,7 @@ import PricingSection from "~/components/Section/Common/PricingSection";
 import ElearningSection from "~/components/Section/Common/Elearning/ElearningSection";
 import QuestionAccordionSection from '~/components/Section/Common/QuestionAccordionSection';
 import RecentBlogSection from '~/components/Section/Common/RecentBlogSection';
-import ItSolutionSection from "~/components/Section/Common/ItSolutionSection";
+import TechSolutionSection from "~/components/Section/Common/TechSolutionSection";
 
 
 
@@ -32,7 +32,7 @@ const Home = () => {
       <FactSection />
       <ChooseSection />
       <PricingSection />
-      <ItSolutionSection />
+      <TechSolutionSection />
       <RecentProjectsSection />
       <LetsBuildSection />
       <TestimonialSection />
