@@ -1,1 +1,1 @@
-export { default } from "./SingleBlogSection";
+export { default } from "./SingleBlogSection.jsx";

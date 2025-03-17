@@ -1,1 +1,1 @@
-export { default } from "./QuestionAccordionSection";
+export { default } from "./QuestionAccordionSection.jsx";

@@ -1,1 +1,1 @@
-export { default } from "./RecentProjectsSection";
+export { default } from "./RecentProjectsSection.jsx";

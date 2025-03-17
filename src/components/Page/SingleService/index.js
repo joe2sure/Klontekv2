@@ -1,1 +1,1 @@
-export { default } from "./SingleServiceSection";
+export { default } from "./SingleServiceSection.jsx";

@@ -1,1 +1,1 @@
-export { default } from "./ServiceGridSection";
+export { default } from "./ServiceGridSection.jsx";

@@ -1,1 +1,1 @@
-export { default } from "./ServiceSlideSection";
+export { default } from "./ServiceSlideSection.jsx";

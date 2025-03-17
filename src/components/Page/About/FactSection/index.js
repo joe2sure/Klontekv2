@@ -1,1 +1,1 @@
-export { default } from "./FactSection";
+export { default } from "./FactSection.jsx";

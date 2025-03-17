@@ -1,1 +1,1 @@
-export { default } from "./ContentSection";
+export { default } from "./ContentSection.jsx";

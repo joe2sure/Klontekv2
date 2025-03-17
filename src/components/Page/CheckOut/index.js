@@ -1,1 +1,1 @@
-export { default } from "./CheckOutSection";
+export { default } from "./CheckOutSection.jsx";

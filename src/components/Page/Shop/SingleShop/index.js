@@ -1,1 +1,1 @@
-export { default } from "./SingleShopSection ";
+export { default } from "./SingleShopSection.jsx";

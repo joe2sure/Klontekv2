@@ -1,1 +1,1 @@
-export { default } from "./LetsBuildSection";
+export { default } from "./LetsBuildSection.jsx";

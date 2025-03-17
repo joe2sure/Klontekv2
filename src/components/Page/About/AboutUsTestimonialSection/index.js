@@ -1,1 +1,1 @@
-export { default } from "./AboutUsTestimonialSection ";
+export { default } from "./AboutUsTestimonialSection.jsx";

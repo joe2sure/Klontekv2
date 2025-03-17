@@ -1,1 +1,1 @@
-export { default } from "./AccordionSection";
+export { default } from "./AccordionSection.jsx";

@@ -1,1 +1,1 @@
-export { default } from "./WorkProcessSection";
+export { default } from "./WorkProcessSection.jsx";

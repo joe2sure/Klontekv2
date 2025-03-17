@@ -1,1 +1,1 @@
-export {default} from './BrandSection'
+export {default} from './BrandSection.jsx'

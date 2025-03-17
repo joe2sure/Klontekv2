@@ -1,1 +1,1 @@
-export { default } from "./MyCartSection";
+export { default } from "./MyCartSection.jsx";
