@@ -17,8 +17,8 @@ import PricingSection from "~/components/Section/Common/PricingSection";
 import ElearningSection from "~/components/Section/Common/Elearning/ElearningSection";
 import QuestionAccordionSection from '~/components/Section/Common/QuestionAccordionSection';
 import RecentBlogSection from '~/components/Section/Common/RecentBlogSection';
-import ItSolutionSection from "~/components/Section/Common/ItSolutionSection/ItSolutionSection.jsx";
-// import ItSolutionSection from "~/components/Section/Common/ItSolutionSection";
+import ItSolutionSection from "~/components/Section/Common/ItSolutionSection/ItSolutionSection";
+
 
 
 const Home = () => {
