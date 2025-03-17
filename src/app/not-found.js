@@ -4,7 +4,7 @@ import Footer from '~/components/Section/Common/Footer/FooterSection';
 
 
 
-const NotFound = () => {
+const NotFound= () => {
     return (
     <>
       <Header className="tekup-header-top bg-light1 "/>
@@ -24,4 +24,5 @@ const NotFound = () => {
     </>
     );
 };
+
 export default NotFound;
