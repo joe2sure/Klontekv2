@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "echo \"Node version: $(node -v)\" && next build",
+    "build": "ls -la src/components/Section/Common/ItSolutionSection && next build",
     "start": "next start",
     "lint": "next lint"
   },
