@@ -2,9 +2,13 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "20.15.0",
+    "npm": "10.8.2"
+  },
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "echo \"Node version: $(node -v)\" && next build",
     "start": "next start",
     "lint": "next lint"
   },

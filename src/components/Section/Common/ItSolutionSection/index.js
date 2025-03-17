@@ -1,1 +1,2 @@
-export { default } from "./ItSolutionSection.jsx";
+import ItSolutionSection from "./ItSolutionSection.jsx";
+export default ItSolutionSection;

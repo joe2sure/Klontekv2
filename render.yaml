@@ -5,6 +5,7 @@ services:
     buildCommand: npm install && npm run build
     startCommand: npm start
     env: node
+    nodeVersion: 18.17.0  # Add this line
     envVars:
       - key: NODE_ENV
         value: production
